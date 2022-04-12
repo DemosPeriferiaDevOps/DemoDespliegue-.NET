@@ -1,7 +1,3 @@
-## .NET Core CI/CD on the AWS Cloud—Quick Start
+## .NET Core CI/CD on the AWS Cloud
 
-For architectural details, step-by-step instructions, and customization options, see the [deployment guide](https://fwd.aws/yewap).
-
-To post feedback, submit feature ideas, or report bugs, use the **Issues** section of this GitHub repo. 
-
-To submit code for this Quick Start, see the [AWS Quick Start Contributor's Kit](https://aws-quickstart.github.io/).
+Para conocer los detalles de la arquitectura, las instrucciones paso a paso y las opciones de personalización, consulte la [guía de implantación](https://fwd.aws/yewap).
